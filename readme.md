@@ -2,7 +2,7 @@
 
 
 <a href="https://raw.githubusercontent.com/jaid/sort-object-entries/master/license.txt"><img src="https://img.shields.io/github/license/jaid/sort-object-entries?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor sort-object-entries"/></a>  
-<a href="https://actions-badge.atrox.dev/jaid/sort-object-entries/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fsort-object-entries%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/sort-object-entries/commits"><img src="https://img.shields.io/github/commits-since/jaid/sort-object-entries/v0.1.0?style=flat-square&logo=github" alt="Commits since v0.1.0"/></a> <a href="https://github.com/jaid/sort-object-entries/commits"><img src="https://img.shields.io/github/last-commit/jaid/sort-object-entries?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/sort-object-entries/issues"><img src="https://img.shields.io/github/issues/jaid/sort-object-entries?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://actions-badge.atrox.dev/jaid/sort-object-entries/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fsort-object-entries%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/sort-object-entries/commits"><img src="https://img.shields.io/github/commits-since/jaid/sort-object-entries/v1.0.0?style=flat-square&logo=github" alt="Commits since v1.0.0"/></a> <a href="https://github.com/jaid/sort-object-entries/commits"><img src="https://img.shields.io/github/last-commit/jaid/sort-object-entries?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/sort-object-entries/issues"><img src="https://img.shields.io/github/issues/jaid/sort-object-entries?style=flat-square&logo=github" alt="Issues"/></a>  
 <a href="https://npmjs.com/package/sort-object-entries"><img src="https://img.shields.io/npm/v/sort-object-entries?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/sort-object-entries/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/sort-object-entries?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/sort-object-entries"><img src="https://img.shields.io/npm/dm/sort-object-entries?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **Sorts an object's entries. Order can be determined by both keys and properties.**
@@ -14,11 +14,11 @@ The compare function has 4 parameters and should return a number: `compare(value
 ## Installation
 <a href="https://npmjs.com/package/sort-object-entries"><img src="https://img.shields.io/badge/npm-sort--object--entries-C23039?style=flat-square&logo=npm" alt="sort-object-entries on npm"/></a>
 ```bash
-npm install --save sort-object-entries@^0.1.0
+npm install --save sort-object-entries@^1.0.0
 ```
 <a href="https://yarnpkg.com/package/sort-object-entries"><img src="https://img.shields.io/badge/Yarn-sort--object--entries-2F8CB7?style=flat-square&logo=yarn&logoColor=white" alt="sort-object-entries on Yarn"/></a>
 ```bash
-yarn add sort-object-entries@^0.1.0
+yarn add sort-object-entries@^1.0.0
 ```
 
 
