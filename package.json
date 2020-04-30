@@ -35,5 +35,17 @@
     "url": "https://github.com/jaid/sort-object-entries"
   },
   "homepage": "https://github.com/Jaid/sort-object-entries",
-  "keywords": []
+  "keywords": [
+    "lib",
+    "library",
+    "node",
+    "node-js",
+    "object",
+    "order",
+    "sort",
+    "sort-object",
+    "sorting",
+    "util",
+    "utility"
+  ]
 }
